@@ -18,9 +18,7 @@ Se utilizan técnicas de visualización, incluyendo:
 - **Jupyter Notebook / Google Colab**: Entorno interactivo para ejecutar el análisis.  
 
 ## 📁 Estructura del Proyecto
-- **Notebook principal (`TelecomX_Analisis.ipynb`)**: Contiene el análisis completo, gráficos y conclusiones.  
-- **Conjunto de datos (`TelecomX_Data.json`)**: Datos utilizados para el análisis.  
-- **Diccionario de datos (`TelecomX_diccionario.md`)**: Descripción de las variables presentes en el dataset.  
+- **Notebook principal (`TelecomX_LATAM.ipynb`)**: Contiene el análisis completo, gráficos y conclusiones.  
 
 ## 🔍 Conclusiones Principales
 - Los **contratos mensuales** y el **pago por cheque electrónico** presentan mayor abandono.  
